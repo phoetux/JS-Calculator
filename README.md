@@ -1,4 +1,4 @@
-# A Calculator made in JS
+# A Calculator made in Javascript
 **Also my first JS Project**
 
 ![Animated preview](animated_preview.gif)
