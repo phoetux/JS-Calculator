@@ -1,5 +1,5 @@
 # A Calculator made in JS
-** Also my first JS Project **
+**Also my first JS Project**
 
 ![Animated preview](animated_preview.gif)
 
